@@ -1,8 +1,8 @@
 ### Hi th:
 - 🔭Hoje trabalho com Front - End
-- 👨‍🎓Formado em Relações Internacionai
+- 👨‍🎓Formado em Relações Internacionais
 - 💿Estudo Engenharia de Software  
-- 💪 Sou tranquilo e acessível
+- 💪Sou tranquilo e acessível
 
 <div align="center">
   <a href="https://github.com/Ed Mangilli>
