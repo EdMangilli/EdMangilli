@@ -1,5 +1,5 @@
 ### Hi th:
-- 🔭 Hoje trabalho com Front - End
+- 🔭Hoje trabalho com Front - End
 - 👨‍🎓Formado em Relações Internacionai
 - 💿Estudo Engenharia de Software  
 - 💪 Sou tranquilo e acessível
