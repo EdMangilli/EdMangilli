@@ -1,7 +1,7 @@
 ### Hi th:
 - 🔭Hoje trabalho com Front - End
-- 👨‍🎓Formado em Relações Internacionais
-- 💿Estudo Engenharia de Software  
+- 👨‍🎓Graduado em Relações Internacionais
+- 💿Acadêmico Engenharia de Software  
 - 💪Sou tranquilo e acessível
 
 <div align="center">
@@ -46,8 +46,6 @@ Pe<div style="display: inline_block"><br>
 
   <img align="center" alt="Ed-Ts" height="30" width="40" src="https://i0.wp.com/techwek.com/wp-content/uploads/2021/02/gif-cachorro-1.gif?resize=480%2C480&ssl=1">
   
-  
 
-
-
+     
 
